@@ -50,6 +50,8 @@ The concept of Improvement Value (IV) can be applied to both software and biolog
 [Twitter](https://github.com/sourceduty/Twitter)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[AI](https://github.com/sourceduty/AI)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
